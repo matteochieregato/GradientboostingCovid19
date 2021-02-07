@@ -1,5 +1,6 @@
 # GradientBoostingCovid19
-Repository for the paper "Gradient boosting classification of COVID-19 severity from deep learning extracted CT features and non-imaging data in patients from a northern Italy hospital"
+Repository for the paper "Gradient boosting classification of COVID-19 severity from deep learning extracted CT features and non-imaging data in patients from a northern Italy hospital".
+
 Due to the European Data Protection Law (GDPR16, European Union 2016-05-04) we can not condivide patients data.
 Our predictive model is composed of the following steps:
 1) CT image preprocessing
