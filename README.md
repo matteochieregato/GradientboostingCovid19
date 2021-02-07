@@ -14,8 +14,5 @@ Our predictive model is composed of the following steps:
 10) Bayesian hyperparameter optimization with Optuna to create a shortlist of CatBoost models (on the training set)
 11) Choice of the best performing CatBoost model with overfitting detector (evaluated on the validation set)
 12) Retraining the best CatBoost model on joined training+evaluation set and evaluation on the testset.  
-The machine learning part of the model is in a Jupyter notebook.
+The machine learning part of the model is in the Jupyter notebook.
 
-
-
-)
