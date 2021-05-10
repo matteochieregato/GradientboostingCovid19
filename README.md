@@ -1,7 +1,7 @@
 # GradientBoostingCovid19
 Code repository for the paper "A hybrid machine learning/deep learning COVID-19 severity predictive model from CT images and clinical data".
 
-Due to the European Data Protection Law (GDPR16, European Union 2016-05-04) patients data will not be put in this repository. can be made available from the corresponding author on reasonable requests upon ethical comittee approval.
+Due to the European Data Protection Law (GDPR16, European Union 2016-05-04) patients dataset is not in this repository. Data can be made available from the corresponding author on reasonable requests upon ethical comittee approval.
 Our predictive model is composed of the following steps:
 1) CT image preprocessing
 2) lungs extraction
